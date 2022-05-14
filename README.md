@@ -1,12 +1,12 @@
-<h1 align="center">Sobre</h1>
- <p align="center">Oiii! É um prazer ter você visitando meu git, sou estudante de desenvolvimento de software na Trybe e na DIO, e vivo constantemente buscando aprender coisas novas.</p>
- <h1 align="center">Status</h1>
+<h1 align="center">SOBRE</h1>
+ <p align="center">Oiii! É um prazer ter você visitando meu git, sou Desenvolvedor Web Fullstack e apaixonado por aprender vivo constantemente buscando aprender coisas novas, que possam contribuir para meu crecismento e das pessoas.</p>
+ <h1 align="center">STATUS</h1>
   <div align="center">
   <a href="https://github.com/Vitor545">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=Vitor545&theme=dracula&show_icons=true" />
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor545&layout=compact&theme=dracula" />
 </div>
-<h1 align="center">Skills</h1>
+<h1 align="center">SKILLS</h1>
 <div align="center">
   <h4>Front-end</h4>
   <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -26,7 +26,7 @@
   <img height="60" src="https://user-images.githubusercontent.com/68698781/152196540-efaf5119-67de-43f1-b955-55ed2b086796.png">
   <img height="60" src="https://user-images.githubusercontent.com/68698781/152196431-6032d26a-545a-414d-a10c-6deddfe52f90.png">
 </div>
- <h1 align="center">Social media</h1>
+ <h1 align="center">SOCIAL MEDIA</h1>
 <div align="center"> 
   <a href="https://instagram.com/vitorsouza285" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:tutornews2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
