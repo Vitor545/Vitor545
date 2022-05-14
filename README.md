@@ -1,8 +1,7 @@
 <h1 align="center">😀 SOBRE</h1>
  <p align="center">Oiii! É um prazer ter você visitando meu git, sou Desenvolvedor Web Fullstack e apaixonado por aprender vivo constantemente buscando aprender coisas novas que possam contribuir para meu crecismento e das pessoas.</p>
  
- ![](https://github.com/Vitor545/bemvindo-15.gif)
-
+ <img width=100% src="bemvindo-15.gif"></img>
 
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
  
