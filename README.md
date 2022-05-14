@@ -1,5 +1,5 @@
 <h1 align="center">😀 SOBRE</h1>
- <p align="center">Oiii! É um prazer ter você visitando meu git, sou Desenvolvedor Web Fullstack e apaixonado por aprender vivo constantemente buscando aprender coisas novas que possam contribuir para meu crecismento e das pessoas.</p>
+ <p align="center">Oiii! É um prazer ter você visitando meu git, sou um Desenvolvedor Web Fullstack apaixonado por aprender vivo constantemente buscando aprender coisas novas que possam contribuir para meu crecismento e das pessoas.</p>
  
   <p align="center"> <img width=50% src="bemvindo-15.gif"></img></p>
 
