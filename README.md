@@ -1,6 +1,8 @@
 <h1 align="center">😀 SOBRE</h1>
  <p align="center">Oiii! É um prazer ter você visitando meu git, sou Desenvolvedor Web Fullstack e apaixonado por aprender vivo constantemente buscando aprender coisas novas que possam contribuir para meu crecismento e das pessoas.</p>
  
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Facegif.com%2Fpt%2Fbem-vindo-gifs%2F&psig=AOvVaw02JS1p0W8SmnwOtPhbBv5-&ust=1652631884831000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIiOx_Pb3_cCFQAAAAAdAAAAABAD"></img>
+ 
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
  
  <h1 align="center">📈 STATUS</h1>
