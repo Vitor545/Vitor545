@@ -1,5 +1,5 @@
 <h1 align="center">SOBRE</h1>
- <p align="center">Oiii! É um prazer ter você visitando meu git, sou Desenvolvedor Web Fullstack e apaixonado por aprender vivo constantemente buscando aprender coisas novas, que possam contribuir para meu crecismento e das pessoas.</p>
+ <p align="center">Oiii! É um prazer ter você visitando meu git, sou Desenvolvedor Web Fullstack e apaixonado por aprender vivo constantemente buscando aprender coisas novas que possam contribuir para meu crecismento e das pessoas.</p>
  <h1 align="center">STATUS</h1>
   <div align="center">
   <a href="https://github.com/Vitor545">
